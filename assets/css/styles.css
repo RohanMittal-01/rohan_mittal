@@ -9,14 +9,14 @@
 }
 
 .carousel-item {
-    height: 10000px;
+    height: 500px;
     text-align: center;
 }
 
 
 .item1 {
   background-image: url(https://images8.alphacoders.com/545/545909.jpg);
-  /*height: 100px;*/
+  background-position: center;
 }
 
 .item2 {

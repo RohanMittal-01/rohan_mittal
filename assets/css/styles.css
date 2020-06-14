@@ -1,17 +1,36 @@
 
 .myheader {
+  /*color: antiquewhite;*/
   text-align: center;
-  background-color: white;
+  background-image: url(https://www.yourtrainingedge.com/wp-content/uploads/2019/05/background-calm-clouds-747964.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 700px;
+  width: 100%;
 }
 
 .profile-pic {
   border-radius: 50%;
 }
 
+#about{
+  background-color: pink;
+  text-align: center;
+  border-bottom: white;
+}
+
+#projects{
+  text-align: center;
+  background-color: plum;
+}
+
 .carousel-item {
+  padding: 200px;
     height: 500px;
     width: 100%;
     text-align: center;
+
 }
 
 
@@ -20,7 +39,7 @@
   background-image: url(https://images8.alphacoders.com/545/545909.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .item2 {
@@ -28,7 +47,7 @@
   background-image:url(https://cdn.hipwallpaper.com/i/75/6/1NStk9.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .item3 {

@@ -17,15 +17,21 @@
 .item1 {
   background-image: url(https://images8.alphacoders.com/545/545909.jpg);
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .item2 {
   background-image:url(https://cdn.hipwallpaper.com/i/75/6/1NStk9.jpg);
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .item3 {
   background-image:url(https://wallpaperaccess.com/full/825336.jpg);
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 

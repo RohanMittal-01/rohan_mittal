@@ -9,6 +9,8 @@
 }
 
 .carousel-item {
+    height: auto;
+    width: 100%;
     text-align: center;
 }
 
@@ -19,8 +21,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-      height: auto;
-    width: 100%;
 }
 
 .item2 {
@@ -29,8 +29,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-      height: auto;
-    width: 100%;
 }
 
 .item3 {
@@ -39,7 +37,5 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-      height: auto;
-    width: 100%;
 }
 

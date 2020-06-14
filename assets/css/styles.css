@@ -1,1 +1,24 @@
-body{}
+body{
+    background-color: blueviolet;
+}
+
+#profile_image{
+    border: thick double darkgrey;
+    border-width: 10px;
+}
+
+.point{
+    font-size: 15pt;
+    font-family: cursive;
+}
+
+.myname{
+    font-size: 40pt;
+    font-family: monospace;
+}
+
+.layout{
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+

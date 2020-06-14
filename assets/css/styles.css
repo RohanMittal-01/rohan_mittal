@@ -38,7 +38,7 @@
   background-image:url(https://wallpaperaccess.com/full/825336.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
       height: auto;
     width: 100%;
 }

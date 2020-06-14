@@ -1,12 +1,11 @@
-.myheader{
+
+.myheader {
   text-align: center;
-  background-color: grey;
+  background-color: white;
 }
-.profile-pic{
+
+.profile-pic {
   border-radius: 50%;
-}
-#about{
-  background-color:pink;
 }
 
 .carousel-item {

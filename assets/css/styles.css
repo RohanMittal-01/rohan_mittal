@@ -18,11 +18,13 @@
   background-color: pink;
   text-align: center;
   border-bottom: white;
+  padding: 100px;
 }
 
 #projects{
   text-align: center;
   background-color: plum;
+  padding: 100px;
 }
 
 .carousel-item {

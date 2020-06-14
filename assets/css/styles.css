@@ -15,17 +15,17 @@
 
 
 .item1 {
-  background-color:red;
+  background-image: url(https://images8.alphacoders.com/545/545909.jpg);
   /*height: 100px;*/
 }
 
 .item2 {
-  background-color:yellow;
+  background-image:url(https://cdn.hipwallpaper.com/i/75/6/1NStk9.jpg);
   /*height: 100px;*/
 }
 
 .item3 {
-  background-color:blue;
+  background-image:url(https://wallpaperaccess.com/full/825336.jpg);
   /*height: 100px;*/
 }
 

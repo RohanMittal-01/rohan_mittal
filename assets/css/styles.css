@@ -6,8 +6,20 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
+  background-attachment: fixed;
+  position: relative;
   height: 700px;
   width: 100%;
+}
+section a i{
+  position: relative;
+  top: 200px;
+  left: center;
+  color: blanchedalmond;
+}
+
+html{
+  scroll-behavior: smooth;
 }
 
 .profile-pic {
@@ -17,14 +29,13 @@
 #about{
   background-color: pink;
   text-align: center;
-  border-bottom: white;
-  padding: 200px;
+  padding: 100px;
 }
 
 #projects{
   text-align: center;
   background-color: plum;
-  padding: 200px;
+  padding: 100px;
 }
 
 .carousel-item {
